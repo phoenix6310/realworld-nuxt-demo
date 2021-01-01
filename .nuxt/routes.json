@@ -1,0 +1,49 @@
+[
+  {
+    "path": "/",
+    "component": "D:\\\\study-record\\\\nuxt\\\\nuxt-demo\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "Home",
+        "component": "D:\\\\study-record\\\\nuxt\\\\nuxt-demo\\\\pages\\\\home",
+        "_name": "_0c95904c"
+      },
+      {
+        "path": "/login",
+        "component": "D:\\\\study-record\\\\nuxt\\\\nuxt-demo\\\\pages\\\\login",
+        "_name": "_3d2a0bce"
+      },
+      {
+        "path": "/register",
+        "component": "D:\\\\study-record\\\\nuxt\\\\nuxt-demo\\\\pages\\\\login",
+        "_name": "_3d2a0bce"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "D:\\\\study-record\\\\nuxt\\\\nuxt-demo\\\\pages\\\\profile",
+        "_name": "_73fd20ce"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "D:\\\\study-record\\\\nuxt\\\\nuxt-demo\\\\pages\\\\settings",
+        "_name": "_c631ecc4"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "D:\\\\study-record\\\\nuxt\\\\nuxt-demo\\\\pages\\\\editor",
+        "_name": "_5b8b91a8"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "D:\\\\study-record\\\\nuxt\\\\nuxt-demo\\\\pages\\\\article",
+        "_name": "_5ac7641b"
+      }
+    ],
+    "_name": "_675a6b65"
+  }
+]
